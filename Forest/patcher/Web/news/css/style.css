@@ -1,0 +1,19 @@
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+body { padding: 0;
+ margin: 0; 
+ background: transparent url(http://127.0.0.1/patcher/bg.jpg) no-repeat;
+	background-attachment: fixed; 
+	border: 0; 
+	outline: 0; 
+	overflow: hidden;
+	font-family:	"Tahoma";
+	font-size: 12px; 
+padding: 10px 0 0 10px;
+	}
+.newsblock table {  width: 100%; font-size: 11px; border-collapse: collapse; white-space: nowrap; }
+.newsblock table tr td { padding:0;}
+.newsblock table tr td a { font-weight: bold; text-decoration: none; 	color:#DDDDDD ; line-height: 1; font-size: 12px; display: block; }
+.newsblock table tr.row_1 td { padding: 5px;  }
+.newsblock table tr.row_6 td { background: none; }
+.newsblock table tr td.date { color: #3D9970; font-weight: bold;}
+/* color: #176696; */
